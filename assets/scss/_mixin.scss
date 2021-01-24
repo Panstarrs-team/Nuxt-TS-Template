@@ -1,0 +1,5 @@
+@mixin page-base {
+  display: block;
+  max-width: $width-pc-small;
+  margin: 0 auto;
+}

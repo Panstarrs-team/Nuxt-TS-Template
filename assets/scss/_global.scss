@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  font-size: 14px;
+  line-height: 30px;
+
+  *:not(.material-icons) {
+    box-sizing: border-box;
+    letter-spacing: 1px;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0;
+  }
+}
