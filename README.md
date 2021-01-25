@@ -1,4 +1,4 @@
-# bglo
+# Nuxt + TS Template
 
 ## Build Setup
 
